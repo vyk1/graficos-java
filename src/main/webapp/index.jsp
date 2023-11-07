@@ -15,6 +15,5 @@
         <a href="cadastrar.jsp">Cadastrar uma ação</a>
         <br>
         <a href="./graficos">Listar</a><br>
-        <a href="">Gráficos</a>
     </body>
 </html>
