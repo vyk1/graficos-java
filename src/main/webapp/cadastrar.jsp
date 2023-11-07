@@ -12,9 +12,6 @@
         <!--<link rel="css/newcss.css">-->
         <title>JSP Page</title>
         <style>
-body{
-    font-family: fantasy;
-}
            
 input[type=text], select{
     width: 100%;
